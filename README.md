@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/HaiderQadri) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/haiderrasoolqadri) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haider-rasool-qadri-06a4b91b8/)  
-[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=for-the-badge&logo=medium)](https://https://medium.com/@haiderqadri.07/) 
+[![Medium](https://img.shields.io/badge/Medium-Profile-blue?style=for-the-badge&logo=medium)](https://https//medium.com/@haiderqadri.07/) 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:haiderqadri.07@gmail.com)
 
 ---
