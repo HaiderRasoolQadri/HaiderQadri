@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About me :
   - I'm a `Mathematician` and currently learning `Data Science`, `Machine Learning` and `Deep Learning`.
 
-  - To see my work visit my Github Repositories and Kaggle account mentioned below:
+  - To see my work visit my Github repositories and Kaggle profile mentioned below:
 
   - What's special about me is that I'm `Hard Working`.
   
