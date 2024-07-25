@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Haider
+## Hi there 👋 It's me, Haider
 
 <!--
 **HaiderQadri/HaiderQadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
