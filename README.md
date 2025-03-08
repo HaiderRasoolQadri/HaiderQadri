@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   - To see my work visit my Github repositories and Kaggle profile mentioned below:
 
-  - What's special about me is that `Hard Working`.
+  - What's special about me is that I'm `Hard Working`.
   
   <div id="header" align="center">
     
